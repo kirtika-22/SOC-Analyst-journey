@@ -310,7 +310,3 @@ A SOC Analyst uses networking knowledge to:
 - Investigate security incidents
 
 ---
-
-## Description
-
-In Day 04, I explored the fundamentals of computer networking, which form the backbone of Security Operations Center (SOC) operations. I learned how devices communicate over a network, studied different network types, networking devices, the OSI and TCP/IP models, IP and MAC addressing, common network protocols.the role of firewalls in securing network traffic. Understanding these concepts is crucial for analyzing network logs, investigating security alerts, and identifying malicious activities in real-world SOC environments. These topics provide a strong foundation for network traffic analysis, incident response, and threat detection.
