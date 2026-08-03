@@ -10,6 +10,7 @@ Phishing is a social engineering attack that tricks users into revealing sensiti
 - Spear Phishing
 - Whaling
 - Business Email Compromise (BEC)
+- Malware Phishing
 
 ---
 
